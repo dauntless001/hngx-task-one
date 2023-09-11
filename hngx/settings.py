@@ -24,7 +24,7 @@ SECRET_KEY = 'ov62r!87r+*r1z+3v$$ftv7#-vxui!5vm1y#un7api!!8ckoyh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["*", "hngx-task-one-bomp.onrender.com"]
 
 
 # Application definition
