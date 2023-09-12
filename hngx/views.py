@@ -9,7 +9,7 @@ def home(request):
         "slack_name" : "Wizz",
         "track" : "backend",
         "current_day" : "Tuesday",
-        "utc_time" : "2023-09-12T22:35:05Z",
+        "utc_time" : datetime.datetime.now(timezone.utc),
         "status_code" : 200,
         "github_file_url" : "https://github.com/dauntless001/hngx-task-one/blob/master/hngx/views.py",
         "github_repo_url" : "https://github.com/dauntless001/hngx-task-one"
